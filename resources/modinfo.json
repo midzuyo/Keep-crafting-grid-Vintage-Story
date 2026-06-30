@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "name": "Keep Crafting Grid",
+  "modid": "keepcraftinggrid",
+  "version": "{version}",
+  "description": "{description}",
+  "website": "https://github.com/midzuyo/Keep-crafting-grid-Vintage-Story",
+  "authors": ["midzuyo"],
+  "side": "Client",
+  "requiredOnClient": true,
+  "requiredOnServer": false,
+  "dependencies": {
+    "game": "1.22.3"
+  },
+}
